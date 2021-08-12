@@ -1,0 +1,39 @@
+.topbox
+{
+    height: 744px;
+    width: 1240px;
+    background-color: #C4C4C4;
+}
+.modal-body
+{
+    padding: 0px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black ;
+}
+.cshero
+{
+    height: 565px;
+    width:366px;
+    margin: 89px 774px 90px 100px;
+    border: 1px solid black;
+}
+.modal-content
+{
+    width: 1242px;
+}
+
+.bottombox
+{
+    position: absolute;
+    height: 1028px;
+    width: 1240px;
+    top: 1829px;
+    background-color: #C4C4C4;
+}
+.methodology 
+{
+    height: 84px;
+    width: 421px;
+    margin: 100px 409px 901px 410px;
+    color: black;
+}
